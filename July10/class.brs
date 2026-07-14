@@ -1,6 +1,6 @@
 sub Main()
 
-    car = CreateCar()
+    CreateCar()
 
 end sub
 
